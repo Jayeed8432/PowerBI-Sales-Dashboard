@@ -21,7 +21,8 @@ This project is an interactive Power BI dashboard designed to analyze sales data
 Superstore Sales Dataset
 
 ## Dashboard Preview
-![Sales Dashboard]()
+![Sales Dashboard](dashboard.png)
+![Sales Dashboard](dashboard1.png)
 
 ## Author
 Jayeed Sameer Tamboli
